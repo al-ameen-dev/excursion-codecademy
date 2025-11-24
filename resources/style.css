@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    padding: 10px;
+    font-family: verdana;
+}
+h1{
+    color:white;
+    font-weight: normal;
+    font-size: 50px;
+}
+h2{
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3{
+    color: white;
+    font-weight: normal;
+}
+
+img{
+    width: max-content;
+}
+
+a{
+    color:aquamarine;
+    font-size: 16px;
+    align-content: center;
+}
+.graytext{
+    font-size: 21px;
+    color: gray;
+}
+.container{
+    padding: 2px;
+    line-height: 60px;
+    text-align: center;
+}
